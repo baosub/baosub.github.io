@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: 'ubaldo-barranco',
     twitter: '',
     mastodon: '',
     researchGate: '',
