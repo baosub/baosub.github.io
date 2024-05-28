@@ -17,7 +17,7 @@ const CONFIG = {
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
-        limit: 8, // How many projects to display.
+        limit: 10, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
@@ -52,14 +52,14 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Baosub',
     description: '',
     imageURL: '',
   },
   social: {
     linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    twitter: '',
+    mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -69,34 +69,26 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: '',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'Html',
+    'Css',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Typescript',
+    'React',
+  
   ],
   experiences: [
     {
@@ -159,7 +151,7 @@ const CONFIG = {
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
@@ -171,7 +163,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'cupcake',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
