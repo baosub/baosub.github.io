@@ -33,21 +33,38 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Gradient Generator',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'This app generates css gradients to be used in any web design.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://warm-smakager-5e994b.netlify.app/',
         },
         {
-          title: 'Project Name',
+          title: 'Mexican Population',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Data visualization of mexican population using the official government API (INEGI) and recharts library to make graphs',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://cerulean-cascaron-35df7e.netlify.app/',
         },
+         {
+          title: 'Small business landing page',
+          description:
+            'This is a web page of a small business, very basic using material UI and responsive design',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://astounding-profiterole-356963.netlify.app/',
+        },
+         {
+          title: 'Material UI components',
+          description:
+            'Data visualization of mexican population using the official government API (INEGI) and recharts library to make graphs',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://spiffy-moonbeam-602c69.netlify.app/'
+        },
+        
       ],
     },
   },
