@@ -92,8 +92,8 @@ const CONFIG = {
     skype: '',
     telegram: '',
     website: '',
-    phone: '',
-    email: '',
+    phone: '+52 2224741140',
+    email: 'barrosouba@gmail.com',
   },
   resume: {
     //fileUrl:
