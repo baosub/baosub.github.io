@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'This app generates css gradients to be used in any web design.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://www.pexels.com/photo/close-up-photo-of-codes-1089440/',
           link: 'https://warm-smakager-5e994b.netlify.app/',
         },
         {
