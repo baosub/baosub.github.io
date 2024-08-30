@@ -74,7 +74,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'in/ubaldo-barranco-osorio',
+    linkedin: 'ubaldo-barranco-osorio',
     twitter: '',
     mastodon: '',
     researchGate: '',
