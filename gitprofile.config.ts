@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Data visualization of mexican population using the official government API (INEGI) and recharts library to make graphs',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://images.pexels.com/photos/1089440/pexels-photo-1089440.jpeg',
           link: 'https://cerulean-cascaron-35df7e.netlify.app/',
         },
          {
