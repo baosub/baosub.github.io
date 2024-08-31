@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'This app generates css gradients to be used in any web design.',
           imageUrl:
-            'https://www.pexels.com/photo/close-up-photo-of-codes-1089440/',
+            'https://images.pexels.com/photos/281260/pexels-photo-281260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
           link: 'https://warm-smakager-5e994b.netlify.app/',
         },
         {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Data visualization of mexican population using the official government API (INEGI) and recharts library to make graphs',
           imageUrl:
-            'https://images.pexels.com/photos/1089440/pexels-photo-1089440.jpeg',
+            '     https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
           link: 'https://cerulean-cascaron-35df7e.netlify.app/',
         },
          {
@@ -53,7 +53,7 @@ const CONFIG = {
           description:
             'This is a web page of a small business, very basic using material UI and responsive design',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
           link: 'https://astounding-profiterole-356963.netlify.app/',
         },
          {
@@ -61,7 +61,7 @@ const CONFIG = {
           description:
             'Data visualization of mexican population using the official government API (INEGI) and recharts library to make graphs',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://images.pexels.com/photos/1089440/pexels-photo-1089440.jpeg',
           link: 'https://spiffy-moonbeam-602c69.netlify.app/'
         },
         
@@ -87,7 +87,7 @@ const CONFIG = {
     dribbble: '',
     behance: '',
     medium: '',
-    dev: 'baosub',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
